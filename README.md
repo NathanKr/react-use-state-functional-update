@@ -1,5 +1,5 @@
 <h2>Motivation</h2>
-Experiment with using function in useState
+using update function in useState
 
 <h2>Points of interest</h2>
 <ui>
